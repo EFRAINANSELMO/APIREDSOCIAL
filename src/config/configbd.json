@@ -1,0 +1,17 @@
+{
+"DevConfig":{
+    "service":{
+        "host":"localhost",
+         "port":3000
+    },
+    "db":{
+        "host":"localhost",
+         "name":"redsocial",
+         "port":2424,
+         "user":"root",
+         "password":"0101",
+         "rootUser":"root",
+         "rootPassword":"0101"
+    }
+}
+}
